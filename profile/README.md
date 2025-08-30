@@ -21,3 +21,8 @@
 - Stripe (Gateway)
 - Prisma (ORM)
 - Zod (Validation)
+
+### docs
+
+- https://youtu.be/s4TWZqN7VZs
+- https://www.youtube.com/watch?v=aHLHZTEByDQ
